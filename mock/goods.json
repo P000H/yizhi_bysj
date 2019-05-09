@@ -1,0 +1,34 @@
+{
+    "status":"0",
+    "result":[
+        {
+            "id": 1,
+            "pic": "./../pic/device-1.jpg",
+            "name": "海能杜马斯定氮仪D100",
+            "quantity": 1,
+            "price": 4000,
+            "state": true
+        }, {
+            "id": 2,
+            "pic": "./../static/pic/device-2.jpg",
+            "name": "Mars-400 Plus便携式气相色谱-质谱联用仪",
+            "quantity": 1,
+            "price": 3000,
+            "state": true
+        }, {
+            "id": 3,
+            "pic": "/src/assets/pic/device-3.jpg",
+            "name": "Avio 200 电感耦合等离子体发射光谱仪",
+            "quantity": 1,
+            "price": 7000,
+            "state":  true
+        }, {
+            "id": 4,
+            "pic": "/static/pic/device-4.jpg",
+            "name": "RX-007α 茶.低糖饮料浓度计",
+            "quantity": 1,
+            "price": 6000,
+            "state": true
+        }
+    ]
+}
